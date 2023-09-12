@@ -53,7 +53,7 @@
     },
                 {
       "name": "Fault-Tolerant Error Correction Using Optimized Linear Codes ",
-      "summary": "Optimized the number of measurements required for fault-tolerant syndrome extractionon a classical code and numerically simulated the scheme’s performance.",
+      "summary": "Optimized the number of measurements required for fault-tolerant syndrome extraction on a classical code and numerically simulated the scheme’s performance.",
       "endDate": "2020"
     }
   ],
