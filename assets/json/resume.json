@@ -33,35 +33,30 @@
   "projects": [
     {
       "name": "Fault-Tolerant Quantum Computation",
-      "url": "https://www.uq.edu.au/",
       "summary": "Essay on the threshold theorem and the overhead of fault-tolerant quantum computing.",
       "startDate": "2022",
       "endDate": "2023"
     },
     {
       "name": "Fusion-Based Foliated Quantum Codes",
-      "url": "https://www.uq.edu.au/",
       "summary": "Proposed an algorithm that generalizes the construction of arbitrary foliated CSS codes by fusing resource states.",
       "startDate": "2021",
       "endDate": "2021"
     },
         {
       "name": "Union-Find Decoding on the XZZX Surface Code",
-      "url": "https://www.uq.edu.au/",
       "summary": "Implemented and benchmarked the union-find decoder on the XZZX surface code and proposed a modification to the decoder that could offer improved thresholds.",
       "startDate": "2021",
       "endDate": "2021"
     },
             {
       "name": "An Introduction to Quantum Error Correction and Decoding Algorithms",
-      "url": "https://www.uq.edu.au/",
       "summary": "A review of quantum error correction with an emphasis on decoding.",
       "startDate": "2021",
       "endDate": "2021"
     },
                 {
       "name": "Fault-Tolerant Error Correction Using Optimized Linear Codes ",
-      "url": "https://www.uq.edu.au/",
       "summary": "Optimized the number of measurements required for fault-tolerant syndrome extractionon a classical code and numerically simulated the scheme’s performance.",
       "startDate": "2020",
       "endDate": "2020"
