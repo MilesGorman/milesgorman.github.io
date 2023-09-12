@@ -9,14 +9,16 @@
     {
       "institution": "The University of Cambridge, United Kingdom",
       "url": "https://www.cam.ac.uk/",
-      "studyType": "Master of Advanced Study (Part III) in Applied Mathematics",
+      "studyType": "Master of Advanced Study (Part III)",
+      "area": "Applied Mathematics",
       "startDate": "2022",
       "endDate": "2023"
     },
     {
       "institution": "The University of Queensland, Australia",
       "url": "https://www.uq.edu.au/",
-      "studyType": "Bachelor of Advanced Science (Honours) in Physics",
+      "studyType": "Bachelor of Advanced Science (Honours)",
+      "area": "Physics",
       "startDate": "2018",
       "endDate": "2022"
     }
