@@ -8,7 +8,6 @@
   "education": [
     {
       "institution": "The University of Cambridge, United Kingdom",
-      "url": "https://www.cam.ac.uk/",
       "studyType": "Master of Advanced Study (Part III)",
       "area": "Applied Mathematics",
       "startDate": "2022",
@@ -16,7 +15,6 @@
     },
     {
       "institution": "The University of Queensland, Australia",
-      "url": "/assets/pdf/example_pdf.pdf",
       "studyType": "Bachelor of Advanced Science (Honours)",
       "area": "Physics",
       "startDate": "2018",
@@ -34,6 +32,7 @@
     {
       "name": "Fault-Tolerant Quantum Computation",
       "summary": "Essay on the threshold theorem and the overhead of fault-tolerant quantum computing.",
+      "url": "/assets/pdf/example_pdf.pdf",
       "startDate": "2022",
       "endDate": "2023"
     },
@@ -58,7 +57,7 @@
                 {
       "name": "Fault-Tolerant Error Correction Using Optimized Linear Codes ",
       "summary": "Optimized the number of measurements required for fault-tolerant syndrome extractionon a classical code and numerically simulated the scheme’s performance.",
-      "startDate": "2020"
+      "endDate": "2020"
     }
   ],
     "skills": []
