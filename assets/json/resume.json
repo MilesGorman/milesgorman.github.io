@@ -46,8 +46,8 @@
     {
       "name": "Fusion-Based Foliated Quantum Codes",
       "summary": "Proposed an algorithm that generalizes the construction of arbitrary foliated CSS codes by fusing resource states.",
-      "endDate": "2021",
-      "url": "/assets/pdf/Fusion_based_Foliated_Quantum_Codes.pdf"
+      "url": "/assets/pdf/Fusion_based_Foliated_Quantum_Codes.pdf",
+      "endDate": "2021"
     },
         {
       "name": "Union-Find Decoding on the XZZX Surface Code",
