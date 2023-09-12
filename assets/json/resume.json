@@ -3,34 +3,31 @@
     "name": "Miles Douglas Gorman",
     "email": "Miles.D.Gorman@gmail.com",
     "citizenship": "Australian and American",
-    "Location": "Brisbane, Queensland, Australia",
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "Location": "Brisbane, Queensland, Australia"
   },
   "education": [
     {
       "institution": "The University of Cambridge, United Kingdom",
       "url": "https://www.cam.ac.uk/",
       "studyType": "Master of Advanced Study (Part III) in Applied Mathematics",
-      "startDate": "10/2022",
-      "endDate": "07/2023"
+      "startDate": "10.2022",
+      "endDate": "07.2023"
     },
     {
       "institution": "The University of Queensland, Australia",
       "url": "https://www.uq.edu.au/",
       "studyType": "Bachelor of Advanced Science (Honours) in Physics",
-      "startDate": "02/2018",
-      "endDate": "07/2022"
+      "startDate": "02.2018",
+      "endDate": "07.2022"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [
+    {
+      "title": "Programming languages"
+
+    }
 
   ],
   "languages": [],
@@ -38,7 +35,13 @@
 
   ],
   "references": [],
-  "projects": [
+  "research": [
+    {
+      "title": "Blah",
+      "url": "https://www.uq.edu.au/",
+      "startDate": "02.2018",
+      "endDate": "07.2022"
+    }
 
   ]
 }
