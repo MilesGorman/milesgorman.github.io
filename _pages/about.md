@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I have recently completed a Master of Advanced Study (Part III) in Applied Mathematics at The University of Cambridge.
+I have recently completed a Master of Advanced Study (Part III) in Applied Mathematics at the University of Cambridge.
 
 I am now looking to continue my studies with a PhD in quantum computing. I am particularly interested in quantum error correction and fault tolerance.
 
