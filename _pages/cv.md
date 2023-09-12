@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: CV
-nav: true
+nav: false
 nav_order: 3
 cv_pdf: 
-description: Please [contact me](mailto:Miles.D.Gorman@gmail.com) for a more detailed CV.
+description: Please <a href=mailto:Miles.D.Gorman@gmail.com'#'>contact me</a> for a more detailed CV.
 ---
