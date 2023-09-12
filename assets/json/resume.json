@@ -23,13 +23,6 @@
   ],
   "certificates": [],
   "publications": [],
-  "skills": [
-    {
-      "title": "Programming languages"
-
-    }
-
-  ],
   "languages": [],
   "interests": [
 
@@ -68,7 +61,15 @@
       "name": "Fault-Tolerant Error Correction Using Optimized Linear Codes ",
       "url": "https://www.uq.edu.au/",
       "summary": "Optimized the number of measurements required for fault-tolerant syndrome extraction\non a classical code and numerically simulated the scheme’s performance.",
-      "date": "2020"
+      "startDate": "2020",
+      "endDate": "2020"
     }
+  ],
+    "skills": [
+    {
+      "title": "Programming languages"
+
+    }
+
   ]
 }
