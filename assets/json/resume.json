@@ -35,10 +35,10 @@
 
   ],
   "references": [],
-  "research": [
+  "projects": [
     {
-      "title": "Blah",
-      "url": "https://www.uq.edu.au/",
+      "name": "Blah",
+      "summary": "https://www.uq.edu.au/",
       "startDate": "02.2018",
       "endDate": "07.2022"
     }
