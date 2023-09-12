@@ -39,19 +39,16 @@
     {
       "name": "Fusion-Based Foliated Quantum Codes",
       "summary": "Proposed an algorithm that generalizes the construction of arbitrary foliated CSS codes by fusing resource states.",
-      "startDate": "2021",
       "endDate": "2021"
     },
         {
       "name": "Union-Find Decoding on the XZZX Surface Code",
       "summary": "Implemented and benchmarked the union-find decoder on the XZZX surface code and proposed a modification to the decoder that could offer improved thresholds.",
-      "startDate": "2021",
       "endDate": "2021"
     },
             {
       "name": "An Introduction to Quantum Error Correction and Decoding Algorithms",
       "summary": "A review of quantum error correction with an emphasis on decoding.",
-      "startDate": "2021",
       "endDate": "2021"
     },
                 {
