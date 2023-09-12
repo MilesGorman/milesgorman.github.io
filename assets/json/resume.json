@@ -37,11 +37,38 @@
   "references": [],
   "projects": [
     {
-      "name": "Blah",
-      "summary": "https://www.uq.edu.au/",
-      "startDate": "02.2018",
-      "endDate": "07.2022"
+      "name": "Fault-Tolerant Quantum Computation",
+      "url": "https://www.uq.edu.au/",
+      "summary": "Essay on the overhead of fault-tolerant quantum computing.",
+      "startDate": "2022",
+      "endDate": "2023"
+    },
+    {
+      "name": "Fusion-Based Foliated Quantum Codes",
+      "url": "https://www.uq.edu.au/",
+      "summary": "Proposed an algorithm that generalizes the construction of arbitrary foliated CSS codes by fusing resource states.",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+        {
+      "name": "Union-Find Decoding on the XZZX Surface Code",
+      "url": "https://www.uq.edu.au/",
+      "summary": "Implemented and benchmarked the union-find decoder on the XZZX surface code and proposed a modification to the decoder that could offer improved thresholds.",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+            {
+      "name": "An Introduction to Quantum Error Correction and Decoding Algorithms",
+      "url": "https://www.uq.edu.au/",
+      "summary": "A review of quantum error correction with an emphasis on decoding.",
+      "startDate": "2021",
+      "endDate": "2021"
+    },
+                {
+      "name": "Fault-Tolerant Error Correction Using Optimized Linear Codes ",
+      "url": "https://www.uq.edu.au/",
+      "summary": "Optimized the number of measurements required for fault-tolerant syndrome extraction\non a classical code and numerically simulated the scheme’s performance.",
+      "date": "2020"
     }
-
   ]
 }
