@@ -33,7 +33,13 @@
       "name": "A Syndrome-Extraction-Gadget Family That Unifies Shor-, Steane-, and Kinll-Style Error Correction",
       "summary": "Proposed a family of fault-tolerant syndrome extraction gadgets with circuit depths and qubit counts between or equal to those of Shor-, Steane-, and Knill-style gadgets. Currently preparing for publication.",
       "startDate": "2023",
-      "endDate": "2024"
+      "endDate": "present"
+    },
+    {
+      "name": "A Review of Syndrome Extraction in Quantum Error Correction",
+      "summary": "A review of the various techniques for fault-tolerant syndrome extraction. Currently preparing for publication.",
+      "startDate": "2022",
+      "endDate": "present"
     },
     {
       "name": "Fault-Tolerant Quantum Computation",
