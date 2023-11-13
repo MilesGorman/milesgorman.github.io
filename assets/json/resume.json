@@ -43,7 +43,7 @@
     },
         {
       "name": "Ancilla-Free Preparation of Quantum Error-Correcting Codes",
-      "summary": "Designed an algorithm that finds, for arbitrary stabilizer codes, ancilla-free encoding circuits with significantly reduced overheads compared to the literature’s most prominent method. This work served as the basis for my honours thesis, was marked 7/7, and is now being prepared for publication.",
+      "summary": "Designed an algorithm that finds, for arbitrary stabilizer codes, ancilla-free encoding circuits with significantly reduced overheads compared to the literature’s most prominent method. This work served as the basis for my honours thesis and is now being prepared for publication.",
       "url": "/assets/pdf/UQ_Thesis.pdf",
       "startDate": "2021",
       "endDate": "present"
