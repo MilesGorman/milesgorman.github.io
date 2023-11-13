@@ -30,6 +30,12 @@
   "references": [],
   "projects": [
     {
+      "name": "A Syndrome-Extraction-Gadget Family That Unifies Shor-, Steane-, and Kinll-Style Error Correction",
+      "summary": "Proposed a family of fault-tolerant syndrome extraction gadgets with circuit depths and qubit counts between or equal to those of Shor-, Steane-, and Knill-style gadgets. Currently preparing for publication.",
+      "startDate": "2023",
+      "endDate": "present"
+    },
+    {
       "name": "Fault-Tolerant Quantum Computation",
       "summary": "Essay on the threshold theorem and the overhead of fault-tolerant quantum computing.",
       "url": "/assets/pdf/Part_iii_Essay.pdf",
