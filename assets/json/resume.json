@@ -44,7 +44,6 @@
         {
       "name": "Ancilla-Free Preparation of Quantum Error-Correcting Codes",
       "summary": "Designed an algorithm that finds, for arbitrary stabilizer codes, ancilla-free encoding circuits with significantly reduced overheads compared to the literature’s most prominent method. This work served as the basis for my honours thesis and is now being prepared for publication.",
-      "url": "/assets/pdf/UQ_Thesis.pdf",
       "startDate": "2021",
       "endDate": "present"
     },
@@ -58,7 +57,6 @@
     {
       "name": "Fusion-Based Foliated Quantum Codes",
       "summary": "Proposed an algorithm that generalizes the construction of arbitrary foliated CSS codes by fusing resource states.",
-      "url": "/assets/pdf/Fusion_based_Foliated_Quantum_Codes.pdf",
       "endDate": "2021"
     },
         {
