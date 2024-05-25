@@ -2,8 +2,6 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-google-site-verification=0e7gcpfiGZfcIF57OuMM1bqJ3wj-vwOdLJp5LPRL5Z8
-
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Miles
 middle_name: D.
@@ -114,7 +112,7 @@ contact_note: >
 google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics:  # cronitor RUM analytics site ID (format: XXXXXXXXX)
 
-google_site_verification:  # your google-site-verification ID (Google Search Console)
+google_site_verification: 0e7gcpfiGZfcIF57OuMM1bqJ3wj-vwOdLJp5LPRL5Z8 # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
