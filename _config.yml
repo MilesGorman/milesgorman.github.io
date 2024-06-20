@@ -8,7 +8,7 @@ middle_name: D.
 last_name: Gorman
 email: Miles.D.Gorman@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  PhD student at the University of Southern California, working on Quantum Error Correction and Fault Tolerance.
+    I am a PhD student at the University of Southern California, working on quantum error correction and fault tolerance.
 footer_text: >
 keywords: Miles Douglas Gorman, Quantum Error Correction, Fault Tolerance, Quantum Computing  # add your own keywords or leave empty
 
