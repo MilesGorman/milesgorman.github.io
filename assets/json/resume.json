@@ -10,19 +10,19 @@
       "institution": "University of Southern California, United States",
       "studyType": "Doctor of Philosophy",
       "area": "Electrical Engineering",
-      "endDate": "present"
+      "date": "present"
     },
     {
       "institution": "University of Cambridge, United Kingdom",
-      "studyType": "Master of Advanced Study",
+      "studyType": "Master of Advanced Study (Part III)",
       "area": "Applied Mathematics",
-      "endDate": "2023"
+      "date": "2023"
     },
     {
       "institution": "University of Queensland, Australia",
       "studyType": "Bachelor of Advanced Science (Honours)",
       "area": "Physics",
-      "endDate": "2022"
+      "date": "2022"
     }
   ],
   "certificates": [],
