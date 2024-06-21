@@ -10,7 +10,7 @@ email: mdgorman@usc.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
     I am a PhD student at the University of Southern California, working on quantum error correction and fault tolerance.
 footer_text: >
-keywords: Miles Douglas Gorman, Quantum Error Correction, Fault Tolerance, Quantum Computing  # add your own keywords or leave empty
+keywords: Miles Douglas Gorman, Miles Douglas Gorman, University of Southern California, USC, Quantum Error Correction, Fault Tolerance, Quantum Computing  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

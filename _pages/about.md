@@ -19,6 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a PhD student at the University of Southern California, working on quantum error correction and fault tolerance.
 
-The best way to contact me is by email: [Miles.D.Gorman@gmail.com](mailto:Miles.D.Gorman@gmail.com).
+The best way to contact me is by email: [mdgorman@usc.edu](mailto:mdgorman@usc.edu).
 
 <meta name="google-site-verification" content="8HrNjWx5_1GxjMqWAwYkhitq_zuamm5GMePD2HF10uI" />
