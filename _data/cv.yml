@@ -95,3 +95,18 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+
+- title: Teaching
+  type: time_table
+  contents:
+    - title: Teaching Assistant, Quantum Error Correction
+      institution: University Name
+      year: 2024
+      description:
+        - Led weekly problem-solving sessions.
+        - Held office hours and graded assignments.
+    - title: Guest Lecturer, Fault-Tolerant Quantum Computing
+      institution: University Name
+      year: 2023
+      description:
+        - Delivered two lectures on surface codes.
