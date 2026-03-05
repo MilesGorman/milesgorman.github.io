@@ -8,7 +8,7 @@ middle_name:
 last_name: Gorman
 email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-    I am a PhD student at the University of Southern California. My research focuses on quantum error correction and fault tolerance.
+  I am a PhD student at the University of Southern California, supervised by Professor Todd Brun. My research focuses on quantum error correction and fault tolerance.
 footer_text: >
 keywords: Miles Douglas Gorman, Miles Douglas Gorman, University of Southern California, USC, Quantum Error Correction, Fault Tolerance, Quantum Computing  # add your own keywords or leave empty
 
