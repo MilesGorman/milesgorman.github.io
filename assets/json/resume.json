@@ -78,5 +78,15 @@
       "endDate": "2020"
     }
   ],
-    "skills": []
+  "teaching": [
+    {
+      "name": "EE 589 Quantum Information Theory, Teaching Assistant, USC",
+      "endDate": "Spring 2026"
+    },
+    {
+      "name": "EE 364 Introduction to Probability and Statistics for Electrical Engineering and Computer Science, Teaching Assistant, USC)",
+      "endDate": "Fall 2025"
+    }
+  ],
+  "skills": []
 }
