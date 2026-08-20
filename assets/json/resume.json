@@ -78,6 +78,12 @@
   ],
   "work": [
     {
+      "position": "Teaching Assistant",
+      "name": "University of Southern California",
+      "endDate": "2026",
+      "summary": "EE 105: Introduction to Electrical Engineering."
+    },
+    {
       "position": "Quantum Architecture Intern",
       "name": "PsiQuantum",
       "endDate": "2026"
