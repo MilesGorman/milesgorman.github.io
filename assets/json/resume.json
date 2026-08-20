@@ -76,17 +76,19 @@
       "endDate": "2020"
     }
   ],
-  "work": [
+  "experience": [
+    {
+      "position": "Quantum Architecture Intern",
+      "name": "PsiQuantum",
+      "endDate": "2026"
+    }
+  ],
+  "teaching": [
     {
       "position": "Teaching Assistant",
       "name": "University of Southern California",
       "endDate": "2026",
       "summary": "EE 105: Introduction to Electrical Engineering."
-    },
-    {
-      "position": "Quantum Architecture Intern",
-      "name": "PsiQuantum",
-      "endDate": "2026"
     },
     {
       "position": "Teaching Assistant",
@@ -101,5 +103,6 @@
       "summary": "EE 364: Introduction to Probability and Statistics for Electrical Engineering and Computer Science."
     }
   ],
+  "work": [],
   "skills": []
 }
